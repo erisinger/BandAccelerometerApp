@@ -11,19 +11,18 @@ public class MHLGyroscopeReading extends MHLSensorReading {
     private double x, y, z;
     private long timestamp;
 
-    public MHLGyroscopeReading(int userID, String deviceType, String data){
-        super(userID, deviceType, "SENSORY_GYRO");
-
-        String[] splitData = data.split(",");
-        this.timestamp = Long.parseLong(splitData[0]);
-        this.x = Double.parseDouble(splitData[1]);
-        this.y = Double.parseDouble(splitData[2]);
-        this.z = Double.parseDouble(splitData[3]);
+    public MHLGyroscopeReading(String userID, String deviceType, String deviceID, long t, double x, double y, double z, String label){
+        super(userID, deviceType, deviceID, "SENSOR_GYRO", label);
+        this.timestamp = t;
+        this.x = x;
+        this.y = y;
+        this.z = z;
     }
 
     @Override
     public JSONObject toJSONObject(){
         JSONObject data = new JSONObject();
+        JSONObject device = new JSONObject();
         JSONObject obj = new JSONObject();
 
         try {
@@ -32,10 +31,15 @@ public class MHLGyroscopeReading extends MHLSensorReading {
             data.put("y", y);
             data.put("z", z);
 
+            device.put("device_id", deviceID);
+            device.put("device_type", deviceType);
+
             obj.put("user_id", userID);
             obj.put("device_type", deviceType);
+            obj.put("device", device);
             obj.put("sensor_type", sensorType);
             obj.put("data", data);
+            obj.put("label", label);
         } catch (JSONException e) {
             e.printStackTrace();
         }

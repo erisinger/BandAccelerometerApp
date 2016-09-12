@@ -7,17 +7,21 @@ import org.json.JSONObject;
  */
 public abstract class MHLSensorReading {
 
-    protected int userID;
+    protected String userID;
     protected String deviceType;
+    protected String deviceID;
     protected String sensorType;
+    protected String label;
 
-    public MHLSensorReading(int userID, String deviceType, String sensorType){
+    public MHLSensorReading(String userID, String deviceType, String deviceID, String sensorType, String label){
         this.userID = userID;
         this.deviceType = deviceType;
+        this.deviceID = deviceID;
         this.sensorType = sensorType;
+        this.label = label;
     }
 
-    public int getUserID(){
+    public String getUserID(){
         return userID;
     }
 
@@ -25,9 +29,13 @@ public abstract class MHLSensorReading {
         return deviceType;
     }
 
+    public String getDeviceID() { return  deviceID; }
+
     public String getSensorType(){
         return sensorType;
     }
+
+    public String getLabel() { return label; }
 
     public abstract JSONObject toJSONObject();
 

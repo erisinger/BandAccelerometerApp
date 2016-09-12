@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:3:5-61
 		INJECTED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml
@@ -17,6 +17,9 @@ ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src
 		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml
@@ -38,7 +41,10 @@ ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src
 	android:name
 		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:13:22-64
 application
-ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:16:5-31:19
+ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:16:5-35:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:19:9-41
 	android:allowBackup
@@ -65,3 +71,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:28:17-77
 	android:name
 		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:28:27-74
+meta-data#com.google.android.gms.version
+ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:32:9-34:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from /Users/erikrisinger/Development/Research/BandAccelerometerApp/app/src/main/AndroidManifest.xml:33:13-58

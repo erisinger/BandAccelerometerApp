@@ -14,8 +14,8 @@ public class MHLAccelerometerReading extends MHLSensorReading {
     //constructor for string payload -- removed
 
     //constructor for discrete payload values
-    public MHLAccelerometerReading(int userID, String deviceType, long t, double x, double y, double z){
-        super(userID, deviceType, "SENSOR_ACCEL");
+    public MHLAccelerometerReading(String userID, String deviceType, String deviceID, long t, double x, double y, double z, String label){
+        super(userID, deviceType, deviceID, "SENSOR_ACCEL", label);
 
         this.timestamp = t;
         this.x = x;
@@ -26,6 +26,7 @@ public class MHLAccelerometerReading extends MHLSensorReading {
     @Override
     public JSONObject toJSONObject(){
         JSONObject data = new JSONObject();
+        JSONObject device = new JSONObject();
         JSONObject obj = new JSONObject();
 
         try {
@@ -34,10 +35,15 @@ public class MHLAccelerometerReading extends MHLSensorReading {
             data.put("y", y);
             data.put("z", z);
 
+            device.put("device_id", deviceID);
+            device.put("device_type", deviceType);
+
             obj.put("user_id", userID);
             obj.put("device_type", deviceType);
+            obj.put("device", device);
             obj.put("sensor_type", sensorType);
             obj.put("data", data);
+            obj.put("label", label);
         } catch (JSONException e) {
             e.printStackTrace();
         }

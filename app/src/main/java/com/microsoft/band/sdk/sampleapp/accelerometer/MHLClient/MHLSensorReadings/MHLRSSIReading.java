@@ -11,8 +11,8 @@ public class MHLRSSIReading extends MHLSensorReading {
     private long timestamp;
     private int rssi;
 
-    public MHLRSSIReading(int userID, String deviceType, String data){
-        super(userID, deviceType, "SENSOR_RSSI");
+    public MHLRSSIReading(String userID, String deviceType, String deviceID, String data, String label){
+        super(userID, deviceType, deviceID, "SENSOR_RSSI", label);
 
         String[] splitData = data.split(",");
         this.timestamp = Long.parseLong(splitData[0]);
@@ -22,16 +22,22 @@ public class MHLRSSIReading extends MHLSensorReading {
     @Override
     public JSONObject toJSONObject() {
         JSONObject data = new JSONObject();
+        JSONObject device = new JSONObject();
         JSONObject obj = new JSONObject();
 
         try {
             data.put("t", timestamp);
             data.put("rssi", rssi);
 
+            device.put("device_id", deviceID);
+            device.put("device_type", deviceType);
+
             obj.put("user_id", userID);
             obj.put("device_type", deviceType);
+            obj.put("device", device);
             obj.put("sensor_type", sensorType);
             obj.put("data", data);
+            obj.put("label", label);
         } catch (JSONException e) {
             e.printStackTrace();
         }
