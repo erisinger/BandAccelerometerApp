@@ -41,9 +41,12 @@ import com.microsoft.band.sensors.BandHeartRateEventListener;
 import com.microsoft.band.sensors.HeartRateConsentListener;
 import com.microsoft.band.sensors.SampleRate;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.ContextThemeWrapper;
 import android.view.View;
 import android.app.Activity;
 import android.os.AsyncTask;
@@ -257,9 +260,20 @@ public class BandAccelerometerAppActivity extends Activity {
 
 	public void appendToUI(final String string) {
 
+
+
 		this.runOnUiThread(new Runnable() {
 			@Override
 			public void run() {
+				new AlertDialog.Builder(new ContextThemeWrapper(BandAccelerometerAppActivity.this, android.R.style.Theme_Dialog))
+						.setTitle("Heart Rate Anomaly Detected!")
+						.setMessage(string)
+						.setPositiveButton("Thanks for being Aware", new DialogInterface.OnClickListener() {
+							public void onClick(DialogInterface dialog, int which) {
+								// do nothing
+							}
+						})
+						.show();
 				txtStatus.setText(string);
 			}
 		});

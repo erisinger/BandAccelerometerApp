@@ -10,59 +10,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd8f414-c841-48fd-b8cf-18cab481964e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$AccelerometerSubscriptionTask.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$MultiSensorSubscriptionTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity$MultiSensorSubscriptionTask.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient$MHLClientThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient$MHLClientThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient$MHLConsumptionThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient$MHLConsumptionThread.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient$MHLTransmissionThread.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient$MHLTransmissionThread.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLAccelerometerReading.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLAccelerometerReading.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLGyroscopeReading.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLGyroscopeReading.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLRSSIReading.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLRSSIReading.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLSensorReading.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLSensorReading.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_89b3db25258236790d14f4bac5fe47d6e00b8d9f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_89b3db25258236790d14f4bac5fe47d6e00b8d9f.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/microsoft/band/sdk/sampleapp/accelerometer/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/HeartRateAnomalyDialog.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/HeartRateAnomalyDialog.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLAccelerometerReading.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLAccelerometerReading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLGyroscopeReading.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLGyroscopeReading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLRSSIReading.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLRSSIReading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLSensorReading.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLSensorReading.java" />
     </list>
     <ignored path="BandAccelerometerApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,23 +54,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BandAccelerometerAppActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BandAccelerometerAppActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.72307694">
+              <caret line="274" column="26" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#9938#10432#0" expanded="true" />
+                <element signature="e#10234#10376#0" expanded="true" />
+                <element signature="e#10375#10376#0" expanded="true" />
+                <element signature="e#10431#10432#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MHLMobileIOClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MHLMobileIOClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7443182">
-              <caret line="249" column="57" selection-start-line="249" selection-start-column="57" selection-end-line="249" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="247" column="38" selection-start-line="247" selection-start-column="24" selection-end-line="247" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -1640,9 +1615,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLHeartRateReading.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLRSSIReading.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLSensorReadings/MHLSensorReading.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/HeartRateAnomalyDialog.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.java" />
       </list>
     </option>
   </component>
@@ -2246,7 +2221,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.java</url>
-          <line>100</line>
+          <line>101</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -2262,6 +2237,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#9938#10432#0" expanded="true" />
+            <element signature="e#10234#10376#0" expanded="true" />
+            <element signature="e#10375#10376#0" expanded="true" />
+            <element signature="e#10431#10432#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2272,6 +2251,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#9938#10432#0" expanded="true" />
+            <element signature="e#10234#10376#0" expanded="true" />
+            <element signature="e#10375#10376#0" expanded="true" />
+            <element signature="e#10431#10432#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2330,6 +2313,10 @@
           <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#9938#10432#0" expanded="true" />
+            <element signature="e#10234#10376#0" expanded="true" />
+            <element signature="e#10375#10376#0" expanded="true" />
+            <element signature="e#10431#10432#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2388,6 +2375,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#9938#10432#0" expanded="true" />
+            <element signature="e#10234#10376#0" expanded="true" />
+            <element signature="e#10375#10376#0" expanded="true" />
+            <element signature="e#10431#10432#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2453,6 +2444,10 @@
           <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#9938#10432#0" expanded="true" />
+            <element signature="e#10234#10376#0" expanded="true" />
+            <element signature="e#10375#10376#0" expanded="true" />
+            <element signature="e#10431#10432#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2477,6 +2472,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#9938#10432#0" expanded="true" />
+            <element signature="e#10234#10376#0" expanded="true" />
+            <element signature="e#10375#10376#0" expanded="true" />
+            <element signature="e#10431#10432#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2587,16 +2586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/HeartRateAnomalyDialog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2613,9 +2602,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/MHLClient/MHLMobileIOClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7443182">
-          <caret line="249" column="57" selection-start-line="249" selection-start-column="57" selection-end-line="249" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="247" column="38" selection-start-line="247" selection-start-column="24" selection-end-line="247" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/microsoft/band/sdk/sampleapp/accelerometer/BandAccelerometerAppActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72307694">
+          <caret line="274" column="26" selection-start-line="274" selection-start-column="26" selection-end-line="274" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9938#10432#0" expanded="true" />
+            <element signature="e#10234#10376#0" expanded="true" />
+            <element signature="e#10375#10376#0" expanded="true" />
+            <element signature="e#10431#10432#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

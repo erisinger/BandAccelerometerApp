@@ -7,6 +7,7 @@ import android.app.DialogFragment;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.ContextThemeWrapper;
 
 import com.microsoft.band.sdk.sampleapp.accelerometer.BandAccelerometerAppActivity;
 import com.microsoft.band.sdk.sampleapp.accelerometer.MHLClient.MHLDataStructures.MHLBlockingSensorReadingQueue;
@@ -248,6 +249,7 @@ public class MHLMobileIOClient {
 
 
                         //TO DO: create alert dialog here
+
                     }
                 }
 
